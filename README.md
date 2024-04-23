@@ -1,2 +1,1 @@
-"this is README file"
-"this readme file" 
+developed an Investment Calculator utilizing React.js, HTML, CSS, and JavaScript to efficiently compute capital, interest, and savings (in INR) over 'n' years. Integrated MongoDB for seamless data management, contributing to a comprehensive financial tool.
